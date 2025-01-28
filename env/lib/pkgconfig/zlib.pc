@@ -1,0 +1,13 @@
+prefix=/var/www/html/Python/phising-classifier/Phising-Classifier/env
+exec_prefix=/var/www/html/Python/phising-classifier/Phising-Classifier/env
+libdir=/var/www/html/Python/phising-classifier/Phising-Classifier/env/lib
+sharedlibdir=/var/www/html/Python/phising-classifier/Phising-Classifier/env/lib
+includedir=/var/www/html/Python/phising-classifier/Phising-Classifier/env/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

@@ -1,0 +1,6 @@
+README.md
+setup.py
+Phising_Classifier.egg-info/PKG-INFO
+Phising_Classifier.egg-info/SOURCES.txt
+Phising_Classifier.egg-info/dependency_links.txt
+Phising_Classifier.egg-info/top_level.txt
